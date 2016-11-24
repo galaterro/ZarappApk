@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Zarapp</string>
+    <string name="menu_index">Menu Principal</string>
+    <string name="finalizar">Finalizar</string>
+    <string name="a_adir_caja_grande">Añadir Caja Grande</string>
+    <string name="a_adir_caja_peque_a">Añadir Caja Pequeña</string>
+    <string name="paso_atr_s">Paso Atrás</string>
+    <string name="reset">Reset</string>
+    <string name="textview_grandes">Total Cajas Grandes: </string>
+    <string name="total_cajas_peque_as">Total Cajas Pequeñas:</string>
+    <string name="title_activity_nav_bar">NavBar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
